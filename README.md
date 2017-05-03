@@ -22,7 +22,7 @@ You will be fully capable of doing this homework by the end of Saturday's class.
 
 * [Check out this video of the app for a run-through of how it works](burger_demo.mp4).
 
-#### Instructions
+### Instructions
 
 #### App Setup
 
